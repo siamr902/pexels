@@ -1,2 +1,2 @@
 # Pexels
-A small golang application to work with the Pexels API to query videos and images.
+A small golang application to work with Pexels to query videos and images.
